@@ -2,8 +2,8 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="themeColor">#FFFFB5E6</color>
-    <color name="themeColorDark">#FFCC65C6</color>
+    <color name="themeColor">#FFAA55FF</color>
+    <color name="themeColorDark">#FF5500AA</color>
 
     <color name="promptHintColor">#888888</color>
 
