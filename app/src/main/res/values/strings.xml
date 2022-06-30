@@ -1,0 +1,28 @@
+<resources>
+    <!-- common -->
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- main -->
+    <string name="app_name">Hyponosis KraKra</string>
+    <string name="web_view">Web View</string>
+    <string name="now_starting">Starting KraKra...</string>
+    <string name="prompt_hint">Please input a string to display</string>
+
+    <!-- message list -->
+    <string name="message_get_sleep">You are getting sleepier and sleepier...</string>
+    <string name="message_want_to_study">I want to study and get good grades...</string>
+    <string name="message_like_to_work">You'll love working for the company...</string>
+
+    <!-- message select dialog -->
+    <string name="message_select_dialog_message">Please enter a message string.</string>
+    <string name="message_clear_button">Clear</string>
+
+    <!-- Content Description -->
+    <string name="guide_clear_button">clear button</string>
+    <string name="guide_message_list">message list</string>
+
+    <!-- URLs -->
+    <string name="url">file:///android_asset/SaiminOnTheWeb/index.html</string>
+    <string name="failed_url">file:///android_asset/net_fail.html</string>
+</resources>
