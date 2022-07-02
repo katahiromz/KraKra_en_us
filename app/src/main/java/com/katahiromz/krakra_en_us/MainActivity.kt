@@ -175,7 +175,7 @@ class MainActivity : AppCompatActivity(), ValueCallback<String>, TextToSpeech.On
         }
         if (settings != null) {
             val versionName = getVersionName()
-            updateUserAgent(settings!!, versionName)
+            updateUserAgent(settings, versionName)
         }
     }
 
