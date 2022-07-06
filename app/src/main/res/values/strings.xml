@@ -4,7 +4,7 @@
     <string name="cancel">Cancel</string>
 
     <!-- main -->
-    <string name="app_name">Hyponosis KraKra</string>
+    <string name="app_name">KraKra</string>
     <string name="web_view">Web View</string>
     <string name="now_starting">Starting KraKra...</string>
     <string name="prompt_hint">Please input a string to display</string>
